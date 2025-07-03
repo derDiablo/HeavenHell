@@ -4,7 +4,7 @@ from datetime import datetime
 def quantum_meme_generator():
     """BlackHole"""
     memes = [
-        "Кот-бариста",
+        "oprfgpoedjrtg",
         "Черепаха с лайк-подписью"
     ]
     return random.choice(memes) + " (сгенерировано в " + datetime.now().strftime("%H:%M:%S.%f")[:-3] + ")"
